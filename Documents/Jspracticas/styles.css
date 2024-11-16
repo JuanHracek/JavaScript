@@ -1,0 +1,20 @@
+.form {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.resultado-container {
+    margin-top: 40px;  /* Espacio desde el formulario */
+    text-align: center;
+    width: 100%;
+}
+
+/* Estilo para el resultado */
+.resultado {
+    font-size: 2em;
+    color: blue;
+}
+
